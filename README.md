@@ -1,16 +1,36 @@
-# toktik
+# TOKTIK
 
-A new Flutter project.
+nuevo proyecto con  Flutter.
 
-## Getting Started
+## Instalar dependencias 
 
-This project is a starting point for a Flutter application.
+``` flutter pug get ```
 
-A few resources to get you started if this is your first Flutter project:
+## Temas puntuales de la sección
+Esta sección es muy interesante porque aprenderemos a crear un reproductor de videos vertical estilo TikTok.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Puntualmente veremos:
+
+Manejo de assets
+
+Paquetes
+
+Gesture Detector
+
+Posicionamiento de Widgets
+
+Mappers
+
+Gradientes
+
+Loops
+
+Aserciones
+
+Stacks
+
+Controladores de video
+
+
