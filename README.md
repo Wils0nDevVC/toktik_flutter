@@ -6,7 +6,7 @@ nuevo proyecto con  Flutter.
 
 ``` flutter pug get ```
 
-## Temas puntuales de la sección
+## Temas puntuales de la sección - 1 Sección
 Esta sección es muy interesante porque aprenderemos a crear un reproductor de videos vertical estilo TikTok.
 
 
